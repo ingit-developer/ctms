@@ -1,0 +1,130 @@
+{
+  "configVersion": 1,
+  "timestamp": 1575613104408,
+  "index": "https://ingit-developer.github.io/ctms/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ingit-developer.github.io/ctms/0-es2015.9d6e5591d7f2dd234144.js",
+        "https://ingit-developer.github.io/ctms/0-es5.818805ab6b719900b031.js",
+        "https://ingit-developer.github.io/ctms/10-es2015.a712652415ee5503a683.js",
+        "https://ingit-developer.github.io/ctms/10-es5.dd888d78ff7716fa654f.js",
+        "https://ingit-developer.github.io/ctms/11-es2015.2a5591a244152ba43b83.js",
+        "https://ingit-developer.github.io/ctms/11-es5.c016de612d7c2c899b3b.js",
+        "https://ingit-developer.github.io/ctms/12-es2015.1c55c4a92506ba3440a9.js",
+        "https://ingit-developer.github.io/ctms/12-es5.615623118e8fad1ef2f8.js",
+        "https://ingit-developer.github.io/ctms/13-es2015.0f14609c15639120c379.js",
+        "https://ingit-developer.github.io/ctms/13-es5.2642d8d43caf52744c83.js",
+        "https://ingit-developer.github.io/ctms/14-es2015.4533be0ad628a5727766.js",
+        "https://ingit-developer.github.io/ctms/14-es5.1d24c53feb32b42b0126.js",
+        "https://ingit-developer.github.io/ctms/15-es2015.e29f2494b6ad901c0816.js",
+        "https://ingit-developer.github.io/ctms/2-es2015.7641cf96dcf780167fa8.js",
+        "https://ingit-developer.github.io/ctms/2-es5.07beab77a4f2a4b0b2cb.js",
+        "https://ingit-developer.github.io/ctms/6-es5.3c9ff1dca245075d2ca5.js",
+        "https://ingit-developer.github.io/ctms/7-es2015.86a0cc92852b804387d1.js",
+        "https://ingit-developer.github.io/ctms/7-es5.9df265d72ac4fe7bf803.js",
+        "https://ingit-developer.github.io/ctms/8-es2015.b56ec61f7bce3846c310.js",
+        "https://ingit-developer.github.io/ctms/8-es5.3a347621e909965c031d.js",
+        "https://ingit-developer.github.io/ctms/9-es2015.27dc0841fb26ded9546c.js",
+        "https://ingit-developer.github.io/ctms/9-es5.b033e25b75c4a1af3562.js",
+        "https://ingit-developer.github.io/ctms/common-es2015.f3e1b555f92c9d9fff72.js",
+        "https://ingit-developer.github.io/ctms/common-es5.6d1995f07aa0b6c90f15.js",
+        "https://ingit-developer.github.io/ctms/favicon.ico",
+        "https://ingit-developer.github.io/ctms/index.html",
+        "https://ingit-developer.github.io/ctms/main-es2015.4a6004ca12fe309f11a3.js",
+        "https://ingit-developer.github.io/ctms/main-es5.b8cac60ef1bf3ba09eca.js",
+        "https://ingit-developer.github.io/ctms/manifest.json",
+        "https://ingit-developer.github.io/ctms/polyfills-es2015.f8b792ef2fff4d84f2db.js",
+        "https://ingit-developer.github.io/ctms/polyfills-es5.1a1866e02bac16197c21.js",
+        "https://ingit-developer.github.io/ctms/runtime-es2015.7e0725dfa265db1f9ca1.js",
+        "https://ingit-developer.github.io/ctms/runtime-es5.2932eacf5cba4ce60981.js",
+        "https://ingit-developer.github.io/ctms/scripts.6cf4da7113bcd1218d80.js",
+        "https://ingit-developer.github.io/ctms/styles.d66bb5b952dc0d812f55.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ingit-developer.github.io/ctms/assets/images/avatar_nick.png",
+        "https://ingit-developer.github.io/ctms/assets/images/icons/email.png",
+        "https://ingit-developer.github.io/ctms/assets/images/icons/github.png",
+        "https://ingit-developer.github.io/ctms/assets/images/icons/google.png",
+        "https://ingit-developer.github.io/ctms/assets/images/icons/phone.png",
+        "https://ingit-developer.github.io/ctms/assets/images/icons/twitter.png",
+        "https://ingit-developer.github.io/ctms/assets/ngx-rocket-logo.png",
+        "https://ingit-developer.github.io/ctms/assets/ngx-rocket-logo@192.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ingit-developer.github.io/ctms/0-es2015.9d6e5591d7f2dd234144.js": "1ff7187a78667f51a605034fb710e2eb3f9abd2e",
+    "https://ingit-developer.github.io/ctms/0-es5.818805ab6b719900b031.js": "c2e36f488165e3db622fdb679c03e9532690974b",
+    "https://ingit-developer.github.io/ctms/10-es2015.a712652415ee5503a683.js": "d43aa2ea1580e3af2546b6b100b93b47d9143cf1",
+    "https://ingit-developer.github.io/ctms/10-es5.dd888d78ff7716fa654f.js": "f00c318a649e9e01d477fa0fc88130e0e6b4ae84",
+    "https://ingit-developer.github.io/ctms/11-es2015.2a5591a244152ba43b83.js": "59dea34033f2c281f71771b1d6fee529e6adad6f",
+    "https://ingit-developer.github.io/ctms/11-es5.c016de612d7c2c899b3b.js": "3ea047552b3250dff8aea3bfb23fe1db90c1b2e5",
+    "https://ingit-developer.github.io/ctms/12-es2015.1c55c4a92506ba3440a9.js": "650635b1f6dd78112f8d6fb3f82cb6655763579b",
+    "https://ingit-developer.github.io/ctms/12-es5.615623118e8fad1ef2f8.js": "3c3ab6440c83ff688aa41dac182017c540058ceb",
+    "https://ingit-developer.github.io/ctms/13-es2015.0f14609c15639120c379.js": "522efbc49c614c25f5b0692458a7b012387f9874",
+    "https://ingit-developer.github.io/ctms/13-es5.2642d8d43caf52744c83.js": "4a076353719f278b32c454c043ed7b8be133989b",
+    "https://ingit-developer.github.io/ctms/14-es2015.4533be0ad628a5727766.js": "34315bfcf793b4684cea72fa5c8113b4877f1a7a",
+    "https://ingit-developer.github.io/ctms/14-es5.1d24c53feb32b42b0126.js": "21a4fd408bbe9ca6ba0da6d4c27aef8f7f07cc54",
+    "https://ingit-developer.github.io/ctms/15-es2015.e29f2494b6ad901c0816.js": "81fc150ceb8243cfef5fa4e7f6cd2c32c8298c35",
+    "https://ingit-developer.github.io/ctms/2-es2015.7641cf96dcf780167fa8.js": "235a683d28d8031f2fe8f2e100eb648a0f61eca4",
+    "https://ingit-developer.github.io/ctms/2-es5.07beab77a4f2a4b0b2cb.js": "7b91b4c7b1bf67e3afb285132c2c42fd41ae6cb3",
+    "https://ingit-developer.github.io/ctms/6-es5.3c9ff1dca245075d2ca5.js": "d6140967771e7177fc0523f16371ca4d02b0a29e",
+    "https://ingit-developer.github.io/ctms/7-es2015.86a0cc92852b804387d1.js": "b4b9943650e269074a6622e4271f174f1125335c",
+    "https://ingit-developer.github.io/ctms/7-es5.9df265d72ac4fe7bf803.js": "a1f4af690130866585aa3ca85c9780b1b5043922",
+    "https://ingit-developer.github.io/ctms/8-es2015.b56ec61f7bce3846c310.js": "632ea4b2ff4f908f9ea86592adba4087d91ec7d6",
+    "https://ingit-developer.github.io/ctms/8-es5.3a347621e909965c031d.js": "f70f82ea5b3373b13b88dbc7ec3551401daaa909",
+    "https://ingit-developer.github.io/ctms/9-es2015.27dc0841fb26ded9546c.js": "903498c18d3ac331d7229df243f020ffd1f669e6",
+    "https://ingit-developer.github.io/ctms/9-es5.b033e25b75c4a1af3562.js": "8162e5263f009de6d3b44dd2f1d67bf71b44fcb2",
+    "https://ingit-developer.github.io/ctms/assets/images/avatar_nick.png": "2c33de3eb50d393cc16c688784b88aef64b9ba86",
+    "https://ingit-developer.github.io/ctms/assets/images/icons/email.png": "62e6f8da5d9af6298d5805df4540242b8ac41dce",
+    "https://ingit-developer.github.io/ctms/assets/images/icons/github.png": "cc62c32c85d1c94b4bedb539c18129bd91739a5d",
+    "https://ingit-developer.github.io/ctms/assets/images/icons/google.png": "3fa8c4aca4ef4725e9df337bc368e80b9d54f97b",
+    "https://ingit-developer.github.io/ctms/assets/images/icons/phone.png": "7267f97ea2e54d5a7773080f1cda0654ec3c7fb5",
+    "https://ingit-developer.github.io/ctms/assets/images/icons/twitter.png": "d84e530cee2f4cbc94a98a5eb42d6990e7fe81d2",
+    "https://ingit-developer.github.io/ctms/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://ingit-developer.github.io/ctms/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://ingit-developer.github.io/ctms/common-es2015.f3e1b555f92c9d9fff72.js": "4d160f7163009a0a830777de107b5fa7ec53a8df",
+    "https://ingit-developer.github.io/ctms/common-es5.6d1995f07aa0b6c90f15.js": "d536f16cb7346dc3b76832c292b47b57d6bc6a51",
+    "https://ingit-developer.github.io/ctms/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://ingit-developer.github.io/ctms/index.html": "342f350ced116ac43f28c4a20fdff319234ba475",
+    "https://ingit-developer.github.io/ctms/main-es2015.4a6004ca12fe309f11a3.js": "eccd19f9bcf9028ed0de376198ed1797ab558485",
+    "https://ingit-developer.github.io/ctms/main-es5.b8cac60ef1bf3ba09eca.js": "1486c59aabaf94ec0db1ac678b561023a3015661",
+    "https://ingit-developer.github.io/ctms/manifest.json": "85a387cdc399c78e03c94dc350dc2bf3b60efe5f",
+    "https://ingit-developer.github.io/ctms/polyfills-es2015.f8b792ef2fff4d84f2db.js": "eca94ab2f9087487d8dfaf758fddd7f186f60f5d",
+    "https://ingit-developer.github.io/ctms/polyfills-es5.1a1866e02bac16197c21.js": "974732c39f4d27c813dfca4731f6e4dfa4eed49a",
+    "https://ingit-developer.github.io/ctms/runtime-es2015.7e0725dfa265db1f9ca1.js": "f13868007fbb9fb580aa6b5639d2ac8f3be4e9e8",
+    "https://ingit-developer.github.io/ctms/runtime-es5.2932eacf5cba4ce60981.js": "8f0f6241f2e73538c5fca339aacd014b8ff332d7",
+    "https://ingit-developer.github.io/ctms/scripts.6cf4da7113bcd1218d80.js": "ce2851df35cf713e9b20d770a50ab609f1d86b0e",
+    "https://ingit-developer.github.io/ctms/styles.d66bb5b952dc0d812f55.css": "ea2666d5ed20245feff06ec39d49d44c747f0de4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
